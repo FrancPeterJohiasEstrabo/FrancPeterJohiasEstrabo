@@ -22,6 +22,9 @@ Hello, I'm Franc Peter Joshias Estrabo, a tech enthusiast with a passion for cod
 - **SQL and Relational Databases 101**
   - [View Certification](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2C040BEE89B4334AEDC3ED83F0CBA051AEE21244106E8DD12EE3F48843667528&fbclid=IwAR2aQ7uSE-COijP5N2MHcD-i5NQ1K6E-X4QiYysKC4l68r4JxnlkjmLRKdo)
 
+- **NoSQL and DBaaS 101**
+  - [View Certification]([https://catalog-education.oracle.com/pls/certview/sharebadge?id=2C040BEE89B4334AEDC3ED83F0CBA051AEE21244106E8DD12EE3F48843667528&fbclid=IwAR2aQ7uSE-COijP5N2MHcD-i5NQ1K6E-X4QiYysKC4l68r4JxnlkjmLRKdo](https://courses.cognitiveclass.ai/certificates/e2c3ac36272c40daa1c18a899cd51f41))
+
 ## Skill Sets
 
 ### Programming
